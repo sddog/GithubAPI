@@ -128,6 +128,7 @@
                 android:background="@android:color/holo_blue_light"
                 android:foregroundGravity="center"
                 android:gravity="center"
+                android:text="STAFF"
                 android:textColor="#111"
                 android:textSize="18sp" />
         </LinearLayout>
